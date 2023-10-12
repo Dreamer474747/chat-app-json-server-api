@@ -7,23 +7,13 @@
       "chatKey": []
     },
     {
-      "username": "mobining",
-      "id": "mobinTaataaghi",
-      "password": "12345678",
-      "chatKey": [
-        "FjJboLlj_fW-6d7Lf6S8E",
-        "N_dYkUdaVw8CcvkghXe0s"
-      ]
-    },
-    {
       "username": "mobin",
       "id": "dreamer",
       "password": "11111111",
       "chatKey": [
         "3h58hpt",
         "4g58hjr",
-        "L1d2YrN8pKdoY-xDaqdAH",
-        "FjJboLlj_fW-6d7Lf6S8E"
+        "L1d2YrN8pKdoY-xDaqdAH"
       ]
     },
     {
@@ -31,8 +21,7 @@
       "id": "dreamer2",
       "password": "123456789012345",
       "chatKey": [
-        "3h58hpt",
-        "N_dYkUdaVw8CcvkghXe0s"
+        "3h58hpt"
       ]
     },
     {
@@ -306,32 +295,6 @@
         }
       ]
     },
-    {
-      "id": "FjJboLlj_fW-6d7Lf6S8E",
-      "messages": [
-        {
-          "id": 1,
-          "senderId": "dreamer",
-          "senderUsername": "mobin",
-          "isSeen": true,
-          "text": "hello",
-          "time": "2023-10-10T17:25:36.133Z"
-        }
-      ]
-    },
-    {
-      "id": "N_dYkUdaVw8CcvkghXe0s",
-      "messages": [
-        {
-          "id": 1,
-          "senderId": "dreamer2",
-          "senderUsername": "mobinTat",
-          "isSeen": true,
-          "text": "hello",
-          "time": "2023-10-10T17:37:48.301Z"
-        }
-      ]
-    }
   ],
   "chatPartnerPairs": [
     {
@@ -379,35 +342,5 @@
         "time": "2023-10-10T17:01:08.876Z"
       }
     },
-    {
-      "id": "FjJboLlj_fW-6d7Lf6S8E",
-      "chatPartnersIds": [
-        "dreamer",
-        "mobinTaataaghi"
-      ],
-      "lastText": {
-        "id": 1,
-        "senderId": "dreamer",
-        "senderUsername": "mobin",
-        "isSeen": true,
-        "text": "hello",
-        "time": "2023-10-10T17:25:36.133Z"
-      }
-    },
-    {
-      "id": "N_dYkUdaVw8CcvkghXe0s",
-      "chatPartnersIds": [
-        "dreamer2",
-        "mobinTaataaghi"
-      ],
-      "lastText": {
-        "id": 1,
-        "senderId": "dreamer2",
-        "senderUsername": "mobinTat",
-        "isSeen": true,
-        "text": "hello",
-        "time": "2023-10-10T17:37:48.301Z"
-      }
-    }
   ]
 }
